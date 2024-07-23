@@ -1,4 +1,27 @@
-## Hi there 👋
+## Hi, I'm Sophie!
+
+I'm a front-end software developer looking to grow and broaden my skills into becoming full-stack.
+
+A few things about me:
+
+😄 Pronouns: She/Her
+
+🌱 I’m currently learning MERN and React/NextJS
+
+<details open>
+<summary>Front-end technologies</summary>
+
+| Languages |
+|-----------|
+| TypeScript|
+| JavaScript|
+|    Angular|
+|      React|
+|      Ionic|
+|       HTML|
+|   CSS/SCSS|
+|   Tailwind|
+</details>
 
 <!--
 **sophie1620/sophie1620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

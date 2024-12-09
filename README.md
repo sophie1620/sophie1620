@@ -17,6 +17,7 @@ A few things about me:
 | JavaScript|
 |    Angular|
 |      React|
+|     NextJS|
 |      Ionic|
 |       HTML|
 |   CSS/SCSS|
